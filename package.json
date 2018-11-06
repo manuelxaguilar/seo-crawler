@@ -1,0 +1,32 @@
+{
+  "name": "seo-crawler",
+  "version": "1.0.0",
+  "description": "Simple node.js SEO content crawler for SPAs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelxaguilar/seo-crawler.git"
+  },
+  "keywords": [
+    "npm",
+    "node.js",
+    "seo-crawler",
+    "spa-crawler",
+    "spa-analytics"
+  ],
+  "author": "Manuel Aguilar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelxaguilar/seo-crawler/issues"
+  },
+  "homepage": "https://github.com/manuelxaguilar/seo-crawler#readme",
+  "dependencies": {
+    "bot-inspector": "^1.0.1"
+  }
+}
