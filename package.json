@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/manuelxaguilar/seo-crawler#readme",
   "dependencies": {
-    "bot-inspector": "^1.0.1"
+    "bot-inspector": "^1.0.2"
   }
 }

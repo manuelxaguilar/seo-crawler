@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-bot-inspector@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/bot-inspector/-/bot-inspector-1.0.1.tgz#e67901d47f18a1912d7615c142af9f17ca737a3c"
+bot-inspector@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/bot-inspector/-/bot-inspector-1.0.2.tgz#34a83f1dc8f5dd4461b9705bbc5446dda7584db4"
