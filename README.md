@@ -1,5 +1,5 @@
 # seo-crawler
-Simple node.js SEO content crawler for SPAs using Puppeteer
+Simple node.js SEO content crawler for SPAs using Puppeteer and Reddis (for cache) via Kue
 
 ## TODO
 Documentation and tests need to be added. This will be done shortly.
