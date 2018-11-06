@@ -1,6 +1,6 @@
 {
   "name": "seo-crawler",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Simple node.js SEO content crawler for SPAs",
   "main": "index.js",
   "directories": {
